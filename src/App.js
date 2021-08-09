@@ -22,7 +22,6 @@ const App = () =>  {
       setItems(result.data)
       setIsLoading(false)
     }
-
     fetchItems()
   }, [query])
 
