@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/*"
-to = "index.html"
+from = "/1"
+to = "https://breakingbad-assignment.netlify.app/1"
 status = 200
